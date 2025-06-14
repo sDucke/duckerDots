@@ -1,0 +1,13 @@
+brave-nightly-bin
+electron32
+hyde-cli-git
+jdk23-temurin
+notion-app-electron
+notion-app-electron-debug
+python-pyamdgpuinfo
+sklauncher-bin
+swaylock-effects-git
+whatsapp-nativefier-debug
+xqp
+xwinwrap-0.9-bin
+yay-debug
